@@ -1,2 +1,5 @@
 # hello-world
-Just another repostitory
+===========
+my first repostitory on GitHub!
+
+I love :coffee:.
